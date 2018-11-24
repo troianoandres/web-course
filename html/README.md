@@ -4,7 +4,7 @@
 
 This topic is intended to cover almost all the HTML knowledge needed to start your web developer path. This will give you the tools to build web application once CSS and JavaScript is understood and learned.
 
-## Reading
+## Recommended Reading
 
 - [HTML Dog Begginer Tutorial](http://htmldog.com/guides/html/beginner/)
 
@@ -37,7 +37,7 @@ This topic is intended to cover almost all the HTML knowledge needed to start yo
   - HTML5 Forms Pt. 2: Attributes and Data Lists
   - Embedded Content: Video, Audio, and Canvas
 
-## Extra content
+## Additional content
 
 - Full [W3 Documentation](https://www.w3.org/TR/html5/) over HTML5.
 
@@ -48,6 +48,10 @@ This topic is intended to cover almost all the HTML knowledge needed to start yo
 - We recommend using `2` spaces as indentation for easy reading and structure.
 - Try to apply all the accessibility attributes in order to provide almost full accessibility support.
 - Commit in small chunks so it is easier to handle and easier to validate.
+
+## What you should learn?
+
+TBD
 
 ## Practice
 
