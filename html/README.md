@@ -6,7 +6,7 @@ This topic is intended to cover almost all the HTML knowledge needed to start yo
 
 ## Reading
 
-- [Begginer Tutorial](http://htmldog.com/guides/html/beginner/)
+- [HTML Dog Begginer Tutorial](http://htmldog.com/guides/html/beginner/)
 
   - Tags, Attributes and Elements
   - Page Titles
@@ -18,7 +18,7 @@ This topic is intended to cover almost all the HTML knowledge needed to start yo
   - Tables
   - Forms
 
-- [Intermediate Tutorial](http://htmldog.com/guides/html/intermediate/)
+- [HTML Dog Intermediate Tutorial](http://htmldog.com/guides/html/intermediate/)
 
   - Span and Div
   - Text: Abbreviations, Quotations, and Code
@@ -26,7 +26,7 @@ This topic is intended to cover almost all the HTML knowledge needed to start yo
   - Tables: rowspan and colspan
   - Sectioning
 
-- [Advanced Tutorial](http://htmldog.com/guides/html/advanced/)
+- [HTML Dog Advanced Tutorial](http://htmldog.com/guides/html/advanced/)
 
   - Text: Time, Mark, and “Presentational”
   - Conditional Comments
