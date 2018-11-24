@@ -10,13 +10,15 @@
 
     - [Topic 1: HTML](html)
 
-    - [Topic 2: CSS & SASS](css)
+    - [Topic 2: CSS](css)
 
-    - [Topic 3: JavaScript](javascript)
+    - [Topic 3: SASS](sass)
 
-    - [Topic 4: ReactJS](react)
+    - [Topic 4: JavaScript](javascript)
 
-    - [Topic 5: Angular](angular)
+    - [Topic 5: ReactJS](react)
+
+    - [Topic 6: Angular](angular)
 
 → [index](#index)
 
