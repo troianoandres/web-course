@@ -101,7 +101,7 @@ TBD
 2.  Add the needed markup in order to show the page `header`, `footer`, `nav` at the left, and one `article`.
 ![alt text](./mock.png "HTML5 structure")
 3.  Style the `header` and `footer` with a background you like and its content.
-4.  Add a globant font to your web page with font size of 14px. You can use the font you like most.
+4.  Add a globan font to your web page with font size of 14px. You can use the font you like most.
 5.  Add classes with a meaningful name for each of the previously mentioned elements.
 6.  Create another html file called `grid.html` and reach something similar to [this](https://codepen.io/morganfeeney/full/qtkKy).
 7.  Using Media Queries make the previous two html files responsive.
