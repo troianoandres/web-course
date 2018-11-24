@@ -86,7 +86,7 @@ TBD
 - Avoid the usage of `!important` if possible.
 - You should aim to use external stylesheets.
 
-## What you should learn?
+## What should you learn?
 
 - What are selectors, why they are useful and which of them exists.
 - How properties overwrite works and how to use that in your favor.

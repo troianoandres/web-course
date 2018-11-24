@@ -49,7 +49,7 @@ This topic is intended to cover almost all the HTML knowledge needed to start yo
 - Try to apply all the accessibility attributes in order to provide almost full accessibility support.
 - Commit in small chunks so it is easier to handle and easier to validate.
 
-## What you should learn?
+## What should you learn?
 
 TBD
 
