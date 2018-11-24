@@ -105,5 +105,6 @@ TBD
 5.  Add classes with a meaningful name for each of the previously mentioned elements.
 6.  Create another html file called `grid.html` and reach something similar to [this](https://codepen.io/morganfeeney/full/qtkKy).
 7.  Using Media Queries make the previous two html files responsive.
+8.  Create a last html file called `ecommerce.html` and design a static ecommerce page with some filters and products.
 
 
